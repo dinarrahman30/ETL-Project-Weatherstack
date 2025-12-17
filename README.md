@@ -37,5 +37,10 @@ Arsitektur & Alur Data (Data Flow)
 
 Using API from [wetherstack API](https://weatherstack.com/) (free)
 
+#### Visualization
+<img width="1902" height="847" alt="image" src="https://github.com/user-attachments/assets/d1bf6ba7-7111-48c2-ba83-40887a51a77a" />
+<img width="1906" height="805" alt="image" src="https://github.com/user-attachments/assets/2d1e8aec-9d45-468a-99d7-0790a9b3aad3" />
+
+
 ##### Looks project
 [Project](https://youtu.be/CmyIwga2ZGI)
