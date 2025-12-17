@@ -1,18 +1,29 @@
-# environment
+# --- Security ---
 .env
-.venv
+airflow.cfg
+webserver_config.py
 
-# ignore python cache files
+# --- Python ---
+.venv/
+venv/
 __pycache__/
 *.pyc
 
-# ignore airflow database and logs
+# --- Logs ---
 logs/
-airflow.db
-
-# ignore docker files
 *.log
-*.pid
 
-# ignore database files
-postgres/
+# --- Docker/Database Volumes ---
+postgres_data/
+pgadmin_data/
+metabase_data/
+
+# --- dbt ---
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# --- System ---
+.DS_Store
+Thumbs.db
+.vscode/
