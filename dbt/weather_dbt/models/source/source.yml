@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: weather_source       # Nama alias untuk source ini di dbt
+    database: airflow          # Nama database (sesuai docker-compose)
+    schema: public             # Schema tempat data mentah berada
+    tables:
+      - name: weather_data     # Nama tabel asli di Postgres

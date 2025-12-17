@@ -1,0 +1,18 @@
+# environment
+.env
+.venv
+
+# ignore python cache files
+__pycache__/
+*.pyc
+
+# ignore airflow database and logs
+logs/
+airflow.db
+
+# ignore docker files
+*.log
+*.pid
+
+# ignore database files
+postgres/
