@@ -4,4 +4,5 @@
 
 Using API from [wetherstack API](https://weatherstack.com/) (free)
 
-#### From Youtube Tutorial
+##### Looks project
+https://youtu.be/CmyIwga2ZGI
