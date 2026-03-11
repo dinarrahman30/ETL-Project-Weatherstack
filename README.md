@@ -44,3 +44,5 @@ Using API from [wetherstack API](https://weatherstack.com/) (free)
 
 ##### Looks project
 [Project](https://youtu.be/CmyIwga2ZGI)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dinarrahman30.ETL-Project-Weatherstack)
